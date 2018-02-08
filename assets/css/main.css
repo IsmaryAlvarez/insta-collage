@@ -28,7 +28,7 @@ button{
   background-color: transparent;
 }
 button:disabled{
-  background-color: gray;
+  background-color: grey;
 }
 a{
   font-weight: bolder;
@@ -67,5 +67,5 @@ img{
   height: 100%;
   width: 100%;
   padding: 1em;
-      border-radius: 2em;
+  border-radius: 2em;
 }
