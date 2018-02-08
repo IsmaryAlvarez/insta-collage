@@ -27,6 +27,9 @@ li{
 button{
   background-color: transparent;
 }
+button:disabled{
+  background-color: gray;
+}
 a{
   font-weight: bolder;
 }
@@ -45,7 +48,7 @@ hr{
   margin-top: 2em;
   padding: 2em;
 }
-input:focus {
+input {
     color: black !important;
 }
 .row{
